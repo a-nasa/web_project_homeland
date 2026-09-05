@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #2a2c2f;
+  font-family: "Inter", sans-serif;
+  overflow-x: hidden;
+}
+
+.content {
+  max-width: 984px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
