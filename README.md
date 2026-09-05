@@ -17,4 +17,4 @@ O layout é totalmente responsivo, se adaptando bem a celular, tablet e desktop.
 
 ## Link do projeto
 
-GitHub Pages: _(adicionar depois de publicar)_
+GitHub Pages: (https://a-nasa.github.io/web_project_homeland/)
