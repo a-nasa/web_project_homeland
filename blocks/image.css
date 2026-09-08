@@ -12,14 +12,14 @@
 }
 
 
-@media (min-width: 544px) {
+@media (min-width: 768px) {
   .image {
     max-width: 768px;
   }
 }
 
 
-@media (min-width: 1024px) {
+@media (min-width: 1280px) {
   .image {
     max-width: 984px;
     margin: 0 auto;
