@@ -6,7 +6,8 @@
   margin: 0 auto;
   font-size: 40px;
   line-height: 44px;
-  max-width: 228px;
+  width: 100%;
+  padding: 0 16px;
 }
 
 .lead__subtitle {
@@ -16,7 +17,8 @@
   line-height: 20px;
   text-align: center;
   color: #FFFFFF;
-  max-width: 288px;
+  width: 100%;
+  padding: 0 16px;
   margin: 32px auto 0;
 }
 
