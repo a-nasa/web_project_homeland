@@ -1,10 +1,36 @@
 .footer {
   color: #FFFFFF;
-  padding: 20px;
+  padding-top: 90px;
 }
 
 .footer__copyright {
   font-size: 14px;
   display: flex;
   justify-content: center;
+}
+
+@media(min-width: 768px){
+  footer {
+  color: #FFFFFF;
+   margin: 90px 0 25px;
+}
+
+.footer__copyright {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+}
+}
+
+@media(min-width: 1028px){
+  footer {
+  color: #FFFFFF;
+  margin: 90px 0 25px;
+}
+
+.footer__copyright {
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+}
 }

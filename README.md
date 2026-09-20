@@ -1,20 +1,40 @@
-# web_project_homeland
+## 🌍 Projeto Homeland
 
-## Sobre o Projeto
+O Projeto Homeland foi desenvolvido durante o Sprint 6 da TripleTen com o
+objetivo de praticar a criação de layouts responsivos utilizando HTML e CSS.
 
-Página web feita para a Galeria de Arte TripleTen, contando um pouco da história de funcionários da empresa e suas cidades natais — do Kentucky ao Burundi, passando pelo País de Gales e pela Ucrânia. A ideia é celebrar a diversidade de origens das pessoas que trabalham lá.
+A proposta do projeto é apresentar histórias, paisagens e características 
+de diferentes cidades ao redor do mundo por meio de uma página moderna e totalmente
+adaptável para diferentes dispositivos. Durante o desenvolvimento, foram aplicados 
+conceitos de CSS Grid, Flexbox, Media Queries e a metodologia BEM para 
+organização do código.
 
-O layout é totalmente responsivo, se adaptando bem a celular, tablet e desktop.
+Além da responsividade, o projeto também explora elementos visuais como gradientes, 
+sombras e efeitos de interação, tornando a experiência do usuário mais agradável e 
+próxima do design elaborado no Figma.
 
-## Tecnologias e Técnicas
 
-- HTML5 semântico
-- CSS3 com metodologia BEM (arquivos organizados no padrão BEM Flat)
-- Flexbox para alinhamento dos elementos
-- Media queries para responsividade (breakpoints em 544px e 1024px)
-- Normalize.css
-- Fonte Inter conectada localmente
+## 🚀 Tecnologias Utilizadas
 
-## Link do projeto
+- HTML5
+- CSS
+- CSS Grid
+- Flexbox
+- Media Queries
+- Metodologia BEM
+- Git e GitHub
+- Figma
 
-GitHub Pages: (https://a-nasa.github.io/web_project_homeland/)
+## ✨ O que foi Praticado
+ 
+- Estruturação semântica com HTML
+- Organização de arquivos com BEM
+- Criação de layouts com CSS Grid
+- Responsividade com Media Queries
+- Aplicação de gradientes e sombras
+- Efeitos de hover em imagens e botões
+- Adaptação de conteúdo para diferentes dispositivos.
+
+
+## 🔗 Link do Projeto
+GitHub Pages: (Clique aqui para acessar)
