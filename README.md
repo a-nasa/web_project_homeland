@@ -38,4 +38,4 @@ próxima do design elaborado no Figma.
 
 
 ## 🔗 Link do Projeto
-GitHub Pages: (Clique aqui para acessar)
+GitHub Pages:(https://a-nasa.github.io/web_project_homeland/)
