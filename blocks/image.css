@@ -14,10 +14,16 @@
 @media (min-width: 768px) {
   .image {
     width: 100%;
-    max-width: 100%;
-    margin-left: 0;
-    margin-right: 0;
+    max-width: 768px;
+    margin: 0 auto;
   }
+
+  .image__picture {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
 }
 
 @media (min-width: 1280px) {
@@ -25,4 +31,10 @@
     max-width: 984px;
     margin: 0 auto;
   }
+
+  .image__picture {
+  display: block;
+  width: 100%;
+  height: auto;
+}
 }

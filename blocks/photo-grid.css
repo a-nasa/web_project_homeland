@@ -26,8 +26,9 @@
 
   .photo-grid__item {
   display: block;
-  height: 100%;
   object-fit: cover;
+  width: 352px;
+  height: 264px;
   }
 }
 

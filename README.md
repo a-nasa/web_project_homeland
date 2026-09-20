@@ -25,6 +25,7 @@ próxima do design elaborado no Figma.
 - Git e GitHub
 - Figma
 
+
 ## ✨ O que foi Praticado
  
 - Estruturação semântica com HTML
