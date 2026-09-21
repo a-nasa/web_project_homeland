@@ -1,6 +1,7 @@
 .intro {
  max-width: 288px;
- padding: 64px auto;
+ padding: 64px 0 38px;
+ margin: auto;
 }
 
 .intro__title {
@@ -29,14 +30,13 @@
   display: flex;
   justify-content: flex-end;
   max-width: 700px;
-  margin-top: 10px;
   margin: auto;
 }
 
  .intro__text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.5;
+  line-height: 1.63;
   color: #FFFFFF;
   margin-top: 32px;
   max-width: 722px;
@@ -45,7 +45,8 @@
 @media (min-width: 768px) {
   .intro {
     max-width: 720px;
-    margin: 92px auto;
+    padding: 0;
+    margin: 92px auto 64px;
   }
 
   .intro__title {
@@ -58,17 +59,19 @@
     font-size: 24px;
     line-height: 1.5;
     max-width: 720px;
+    margin: 0 0 32px;
   }
 
   .intro__text-quote {
     font-size: 24px;
     line-height: 1.5;
     max-width: 720px;
+    margin-top: 50px;
   }
 
   .intro__text {
     font-size: 18px;
-    line-height: 1.5;
+    line-height: 1.63;
     max-width: 720px;
 
   }
@@ -77,7 +80,8 @@
 @media (min-width: 1024px) {
   .intro {
     max-width: 830px;
-    margin: 92px 0 0 0;
+    padding: 0;
+    margin: 92px 0 118px 0;
   }
 
   .intro__title {
@@ -91,17 +95,20 @@
     font-size: 24px;
     line-height: 1.5;
     max-width: 738px;
+    margin: 0 0 32px;
+
   }
 
   .intro__text-quote {
     font-size: 24px;
     line-height: 1.5;
     max-width: 738px;
+    margin-top: 40px;
   }
 
   .intro__text {
     font-size: 16px;
-    line-height: 1.5;
+    line-height: 1.63;
     max-width: 722px;
 
   }
